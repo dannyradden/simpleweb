@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dannyradden/simpleweb#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "redis": "2.8.0"
   }
 }
